@@ -2,7 +2,10 @@
 
 ## Figma Design File
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FxNFC23o2ez10gmGq2ZOLNN%2FKevin-Lambert-Front-End-Developer-Task%3Fnode-id%3D0-1%26t%3DT2o9R5YUSjHKDHN6-1" allowfullscreen></iframe>
+<img width="848" alt="Screenshot 2024-08-19 at 13 23 57" src="https://github.com/user-attachments/assets/7d3809fb-2076-4e5b-8ec7-e4cda5a2c78c">
+
+
+Link to the Figma design file https://www.figma.com/design/xNFC23o2ez10gmGq2ZOLNN/Kevin-Lambert-Front-End-Developer-Task?node-id=0-1&t=bCzB4gl64RbDx1hi-1
 
 > Note: The hover background color has been lightened and the grey text darkened as it did not pass AA accessibility guidlines for small text
 
