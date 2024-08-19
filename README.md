@@ -4,7 +4,6 @@
 
 <img width="848" alt="Screenshot 2024-08-19 at 13 23 57" src="https://github.com/user-attachments/assets/7d3809fb-2076-4e5b-8ec7-e4cda5a2c78c">
 
-
 Link to the Figma design file https://www.figma.com/design/xNFC23o2ez10gmGq2ZOLNN/Kevin-Lambert-Front-End-Developer-Task?node-id=0-1&t=bCzB4gl64RbDx1hi-1
 
 > Note: The hover background color has been lightened and the grey text darkened as it did not pass AA accessibility guidlines for small text
@@ -45,6 +44,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 - CSS colors, fonts and spacings to reference design tokens variables
 - Add select dropdown arrow
 - Keyboard navigation
+- Spinner when data is loading
 
 **API**
 
