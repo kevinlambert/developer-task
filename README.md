@@ -44,8 +44,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 - aria tags for accessiblity
 - CSS colors, fonts and spacings to reference design tokens variables
 - Add select dropdown arrow
+- Keyboard navigation
 
 **API**
 
 - Add caching
 - Get user url from a config
+- For larger datasets add search and paging to the api
